@@ -1,10 +1,10 @@
-## IO model
+# IO model
 
 * basic input-output model computes output, GVA and employee compensation multipliers
 
 * based on sectoral input-output tables by CSU (10. 1. 2020)
 
-# Approach
+## Approach
 First, we normalize values in the IO table:
 
 <img src="/tex/55eac011e67200af26834d759e22a600.svg?invert_in_darkmode&sanitize=true" align=middle width=84.02120099999998pt height=24.65753399999998pt/> 
