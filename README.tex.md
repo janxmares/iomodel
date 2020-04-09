@@ -1,2 +1,2 @@
 Tryout of LaTeX in readme file.
-$ e = mc^2 $
+$e = mc^2$
