@@ -2,7 +2,7 @@
 
 * basic input-output model computes output, GVA and employee compensation multipliers
 
-* based on sectoral input-output tables by CSU (10. 1. 2020)
+* based on sectoral input-output tables by CSU (2015)
 
 ## Approach
 First, we normalize values in the IO table:
